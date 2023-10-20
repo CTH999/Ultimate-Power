@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Ultimate POWER</name>
+  <author>CTH2004</author>
+  <packageId>CTH.ultimatePower</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>Ever felt like your pawns were weak, but didin't know where to begin for making an unstoppable monster? Well, here we are!</description>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.Biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+    <li>
+      <packageId>ludeon.rimworld</packageId>
+      <displayName>Core</displayName>
+    </li>
+
+    <li>
+      <packageId>superherogenesbase.mod</packageId>
+      <displayName>Superhero Genes - Base</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2980061828</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>ebsg.aio</packageId>
+      <displayName>Expanded Biotech Style Genes - All in One</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3020821838</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>ebsg.archite</packageId>
+      <displayName>Expanded Archite Genes</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3039936922</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>winglessflight.gene</packageId>
+      <displayName>Wingless Flight Gene</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3002447909</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>sov.homelander</packageId>
+      <displayName>Biotech Gene: Laser-Eyes</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2897565210</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>redmattis.betterprerequisites</packageId>
+      <displayName>Big and Small + Prerequisites Framework</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>morebiotechstylegenes.mod</packageId>
+      <displayName>More Biotech Style Genes - All in One</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>oskarpotocki.vanillafactionsexpanded.core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>sarg.alphagenes</packageId>
+      <displayName>Alpha Genes</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>petre27.biotechbalancedcapacitorgenes</packageId>
+      <displayName>Biotech Capacitor Genes - Balanced</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.fungoid</packageId>
+      <displayName>Vanilla Races Expanded - Fungoid</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042690053</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.genie</packageId>
+      <displayName>Vanilla Races Expanded - Genie</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2901424072</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.waster</packageId>
+      <displayName>Vanilla Races Expanded - Waster</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2983471725</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.saurid</packageId>
+      <displayName>Vanilla Races Expanded - Saurid</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2880990495</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.sanguophage</packageId>
+      <displayName>Vanilla Races Expanded - Sanguophage</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2963116383</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.phytokin</packageId>
+      <displayName>Vanilla Races Expanded - Phytokin</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2927323805</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.hussar</packageId>
+      <displayName>Vanilla Races Expanded - Hussar</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2893586390</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.highmate</packageId>
+      <displayName>Vanilla Races Expanded - Highmate</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2995385834</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.customicons</packageId>
+      <displayName>Vanilla Races Expanded - Custom Icons</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2917311689</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>vanillaracesexpanded.android</packageId>
+      <displayName>Vanilla Races Expanded - Android</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2975771801</steamWorkshopUrl>
+    </li>
+
+  </modDependencies>
+  <loadAfter>
+    <li>void.charactereditor</li>
+    <li>edb.preparecarefully</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>morebiotechstylegenes.mod</li>
+    <li>sarg.alphagenes</li>
+    <li>sov.homelander</li>
+    <li>superherogenesbase.mod</li>
+    <li>ebsg.aio</li>
+    <li>winglessflight.gene</li>
+    <li>ebsg.archite</li>
+    <li>superherogenesvillainsandstereotypes.mod</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>redmattis.betterprerequisites</li>
+    <li>brrainz.harmony</li>
+    <li>petre27.biotechbalancedcapacitorgenes</li>
+    <li>vanillaracesexpanded.fungoid</li>
+    <li>vanillaracesexpanded.genie</li>
+    <li>vanillaracesexpanded.waster</li>
+    <li>vanillaracesexpanded.saurid</li>
+    <li>vanillaracesexpanded.sanguophage</li>
+    <li>vanillaracesexpanded.phytokin</li>
+    <li>vanillaracesexpanded.hussar</li>
+    <li>vanillaracesexpanded.highmate</li>
+    <li>vanillaracesexpanded.customicons</li>
+    <li>vanillaracesexpanded.android</li>
+    <li>petre27.biotechcapacitorgenesextra</li>
+    <li>petre27.biotechcapacitorgenes</li>
+    <li>petre27.godlikemetabolismgene</li>
+    <li>zetrith.prepatcher</li>
+  </loadAfter>
+  <loadBefore>
+    <li>co.uk.epicguru.whatsthatmod</li>
+  </loadBefore>
+</ModMetaData>
