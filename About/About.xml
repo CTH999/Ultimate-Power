@@ -146,7 +146,6 @@
   </modDependencies>
   <loadAfter>
     <li>void.charactereditor</li>
-    <li>edb.preparecarefully</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>morebiotechstylegenes.mod</li>
     <li>sarg.alphagenes</li>
@@ -177,5 +176,6 @@
   </loadAfter>
   <loadBefore>
     <li>co.uk.epicguru.whatsthatmod</li>
+    <li>edb.preparecarefully</li>
   </loadBefore>
 </ModMetaData>
