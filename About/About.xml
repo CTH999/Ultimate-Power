@@ -12,15 +12,29 @@
       <packageId>Ludeon.RimWorld.Biotech</packageId>
       <displayName>Biotech</displayName>
     </li>
+
     <li>
-      <packageId>ludeon.rimworld</packageId>
-      <displayName>Core</displayName>
+      <packageId>sarg.alphagenesvfei</packageId>
+      <displayName>Alpha Genes - Insectoid Mutations</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2906193379</steamWorkshopUrl>
     </li>
 
     <li>
-      <packageId>superherogenesbase.mod</packageId>
-      <displayName>Superhero Genes - Base</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2980061828</steamWorkshopUrl>
+      <packageId>petre27.biotechbalancedcapacitorgenes</packageId>
+      <displayName>Biotech Capacitor Genes - Balanced</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>petre27.biotechcapacitorgenes</packageId>
+      <displayName>Biotech Capacitor Genes - OP</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2882220355</steamWorkshopUrl>
+    </li>
+
+    <li>
+      <packageId>petre27.biotechcapacitorgenesextra</packageId>
+      <displayName>Biotech Capacitor Genes - Extra OP</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2895755569</steamWorkshopUrl>
     </li>
 
     <li>
@@ -42,45 +56,15 @@
     </li>
 
     <li>
-      <packageId>sov.homelander</packageId>
-      <displayName>Biotech Gene: Laser-Eyes</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2897565210</steamWorkshopUrl>
-    </li>
-
-    <li>
-      <packageId>redmattis.betterprerequisites</packageId>
-      <displayName>Big and Small + Prerequisites Framework</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl>
-    </li>
-
-    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
-    </li>
-
-    <li>
       <packageId>morebiotechstylegenes.mod</packageId>
       <displayName>More Biotech Style Genes - All in One</displayName>
       <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870</steamWorkshopUrl>
     </li>
 
     <li>
-      <packageId>oskarpotocki.vanillafactionsexpanded.core</packageId>
-      <displayName>Vanilla Expanded Framework</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
-    </li>
-
-    <li>
       <packageId>sarg.alphagenes</packageId>
       <displayName>Alpha Genes</displayName>
       <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502</steamWorkshopUrl>
-    </li>
-
-    <li>
-      <packageId>petre27.biotechbalancedcapacitorgenes</packageId>
-      <displayName>Biotech Capacitor Genes - Balanced</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2883414707</steamWorkshopUrl>
     </li>
 
     <li>
@@ -141,24 +125,11 @@
       <packageId>vanillaracesexpanded.android</packageId>
       <displayName>Vanilla Races Expanded - Android</displayName>
       <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2975771801</steamWorkshopUrl>
-    </li>
-
   </modDependencies>
   <loadAfter>
-    <li>void.charactereditor</li>
-    <li>oskarpotocki.vanillafactionsexpanded.core</li>
-    <li>morebiotechstylegenes.mod</li>
-    <li>sarg.alphagenes</li>
-    <li>sov.homelander</li>
-    <li>superherogenesbase.mod</li>
-    <li>ebsg.aio</li>
-    <li>winglessflight.gene</li>
-    <li>ebsg.archite</li>
-    <li>superherogenesvillainsandstereotypes.mod</li>
-    <li>unlimitedhugs.hugslib</li>
-    <li>redmattis.betterprerequisites</li>
-    <li>brrainz.harmony</li>
-    <li>petre27.biotechbalancedcapacitorgenes</li>
+   <li>ebsg.aio</li>
+   <li>ebsg.archite</li>
+   <li>morebiotechstylegenes.mod</li>
     <li>vanillaracesexpanded.fungoid</li>
     <li>vanillaracesexpanded.genie</li>
     <li>vanillaracesexpanded.waster</li>
@@ -169,13 +140,15 @@
     <li>vanillaracesexpanded.highmate</li>
     <li>vanillaracesexpanded.customicons</li>
     <li>vanillaracesexpanded.android</li>
-    <li>petre27.biotechcapacitorgenesextra</li>
     <li>petre27.biotechcapacitorgenes</li>
-    <li>petre27.godlikemetabolismgene</li>
-    <li>zetrith.prepatcher</li>
+    <li>petre27.biotechcapacitorgenesextra</li>
+   <li>ebsg.archite</li>
+   <li>ebsg.archite</li>
+    <li>sarg.alphagenes</li>
   </loadAfter>
   <loadBefore>
     <li>co.uk.epicguru.whatsthatmod</li>
     <li>edb.preparecarefully</li>
+    <li>cth.moresuperxenos</li>
   </loadBefore>
 </ModMetaData>
